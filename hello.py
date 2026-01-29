@@ -1,2 +1,1 @@
-print("Hello World!")
-elife EncodingWarning
+print("Hello World!"s
